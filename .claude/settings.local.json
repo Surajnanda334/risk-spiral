@@ -3,7 +3,10 @@
     "allow": [
       "WebFetch(domain:cdn.jsdelivr.net)",
       "WebSearch",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(gh repo:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:surajnanda334.github.io)"
     ]
   }
 }
